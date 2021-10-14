@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Lucien Bill
 - 👀 I’m interested in music, video games, science-fiction, video making, geek stuff
-- 🔧 I’m currently working as a Test Manager
-- 💻 I mostly use Ruby (and Watir), and I occasionally manipulate some bits of JS
-- 📫 How to reach me : [Twitter](https://twitter.com/BillyTheTroll/), [Linkedin](https://www.linkedin.com/in/lucien-bill-3906b043/)
-- 📺 I sometimes try to explain tech stuff to non-tech people (I am a nerd, but not all of my friends are). [I do it in french](https://www.youtube.com/playlist?list=PLQrou-2CKEzX1dGIGcXyeIa6UkyHWPqJl)
+- 🔧 I’m currently working as a Software QA Consultant
+- 💻 I mostly fiddle with HTML/CSS/JS for fun, and I like Ruby (and Watir) a lot
+- 📫 How to reach me : [Twitter](https://twitter.com/BillyTheTroll/), [Linkedin](https://www.linkedin.com/in/lucien-bill-3906b043/), [Twitch](https://www.twitch.tv/billyzetroll)
+- 📤 I sometimes try to explain tech stuff to non-tech people (I am a nerd, but not all of my friends are) in french -> [here is my newsletter](https://www.getrevue.co/profile/billythetroll).
 - 📖 I write stuff every once in a while : [lucienbill.github.io](https://lucienbill.github.io/)
 
 <!---
